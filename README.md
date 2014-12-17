@@ -1,7 +1,10 @@
 golang-talks
 ============
 
-I know it's a mess
+Powered by [present](https://godoc.org/golang.org/x/tools/present)
 
-Available at
-http://go-talks.appspot.com/github.com/klrkdekira/golang-talks/101.slide
+TODO
+---
+* Clean up
+
+Available at http://go-talks.appspot.com/github.com/golang-my/talk-101/101.slide
